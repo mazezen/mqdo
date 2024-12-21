@@ -8,6 +8,7 @@ RabbitMQ 是一个实现了高级消息队列协议（AMQP）的开源消息代�
 
 ### 基本组件
 
+
 * Connection 连接. 使用MQ之前需要建立连接
 
 * Producer 生产者
